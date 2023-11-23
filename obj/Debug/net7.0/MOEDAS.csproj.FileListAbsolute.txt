@@ -1,0 +1,14 @@
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\bin\Debug\net7.0\MOEDAS.exe
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\bin\Debug\net7.0\MOEDAS.deps.json
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\bin\Debug\net7.0\MOEDAS.runtimeconfig.json
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\bin\Debug\net7.0\MOEDAS.dll
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\bin\Debug\net7.0\MOEDAS.pdb
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\MOEDAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\MOEDAS.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\MOEDAS.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\MOEDAS.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\MOEDAS.dll
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\refint\MOEDAS.dll
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\MOEDAS.pdb
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\MOEDAS.genruntimeconfig.cache
+C:\Users\fabio\Desktop\Nova pasta\MOEDAS\obj\Debug\net7.0\ref\MOEDAS.dll
